@@ -97,7 +97,6 @@ nonebot-plugin-cchess
 nonebot-plugin-chess
 nonebot-plugin-charpic
 nonebot-plugin-miragetank
-nonebot-plugin-covid
 nonebot-plugin-yulu
 nonebot-plugin-maze
 nonebot-plugin-moyu
@@ -247,7 +246,6 @@ criminal-dance
 nonebot-plugin-picmcstat
 nonebot-plugin-wantwords
 nonebot-plugin-pvz
-nonebot-plugin-molar-mass
 nonebot-plugin-report-manager
 qinglan-bot
 nonebot-plugin-easy-group-manager
